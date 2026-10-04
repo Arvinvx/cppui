@@ -19,6 +19,7 @@ Ad Soyad : Arvin Dehghan
     Program kullanıcıdan iki sayı girmesini ister
     Sonra bu sayıları değişkenlere kaydeder ve onlar için pointer oluşturur
     Pointerları kullanarak iki sayıyı toplar ve sonucu ekrana yazdırır
+    iki değişkenin değerlerini ve memory adreslerini de gösterir.
  
 ## Program Çıktısı : 
 [Program çıktısını görmek için tıklayın](image.png)

@@ -16,6 +16,12 @@ int main() {
 
   cout << "The sum of the two numbers is: " << *newx + *newy << endl;
 
+  cout << x << endl;
+  cout << newx << endl;
+
+  cout << y << endl;
+  cout << newy << endl;
+
   
   return 0;
 }
